@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Madi\\AdventureT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\fantasymonsters\\scripts\\monsterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\fantasymonsters\\scripts\\monsterstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\hp and damage\\healthbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hp and damage\\healthbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\hp and damage\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hp and damage\\damageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\hp and damage\\attackbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hp and damage\\attackbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\fantasymonsters\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\fantasymonsters\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\fantasymonsters\\scripts\\anchormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\fantasymonsters\\scripts\\anchormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\fantasymonsters\\scripts\\statehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\fantasymonsters\\scripts\\statehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemyanimatordiagnostic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyanimatordiagnostic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\fantasymonsters\\scripts\\layermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\fantasymonsters\\scripts\\layermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\camera\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\camerafollow2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\camera\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\sprite\\kenney_platformer-art-deluxe\\extra animations and enemies\\spritesheets\\alienpink.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\sprite\\kenney_platformer-art-deluxe\\extra animations and enemies\\spritesheets\\alienpink.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:28:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:20:26.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FireballProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\FireballProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:35:22.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:34:48.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Damageable.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\Damageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\Damageable.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\Damageable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HP and Damage\\Damageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:29:45.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HealthBase.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\HealthBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\HealthBase.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\HealthBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HP and Damage\\HealthBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:29:19.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StateHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
+              "RelativeToolTip": "Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T13:35:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyAnimatorDiagnostic.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T16:57:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonsterState.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
+              "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
+              "RelativeToolTip": "Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:52:53.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:49:29.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerAnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:04:55.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:27:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LayerManager.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
+              "RelativeToolTip": "Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:43:36.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnchorManager.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
+              "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
+              "RelativeToolTip": "Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:43:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController2D.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerController2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController2D.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerController2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T06:49:47.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AttackBase.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\AttackBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\AttackBase.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\AttackBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HP and Damage\\AttackBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:33:44.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\Monster.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\Monster.cs",
+              "RelativeToolTip": "Assets\\FantasyMonsters\\Scripts\\Monster.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T15:42:53.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraFollow2D.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\CameraFollow2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollow2D.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\CameraFollow2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraFollow2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T11:41:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Parallax.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\Parallax.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Parallax.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\Parallax.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\Parallax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:34:45.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "alienPink.xml",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
+              "RelativeDocumentMoniker": "Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
+              "RelativeToolTip": "Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-02T08:42:17.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
