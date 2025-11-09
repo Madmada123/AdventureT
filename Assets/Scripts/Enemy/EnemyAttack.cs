@@ -1,9 +1,11 @@
 ﻿using UnityEngine;
 
-[RequireComponent(typeof(Collider2D))]
+[RequireComponent(typeof(EnemyController))]
 public class EnemyAttack : MonoBehaviour
 {
     public int damage = 10;
+    public float attackRadius = 1.5f;
+
     private EnemyController enemyController;
 
     void Awake()
@@ -11,21 +13,35 @@ public class EnemyAttack : MonoBehaviour
         enemyController = GetComponentInParent<EnemyController>();
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    // Вызываем через Animation Event
+    public void PerformAttack()
     {
-        // Проверяем, что столкновение с игроком
-        if (other.CompareTag("Player"))
+        Debug.Log($"⚔️ {enemyController.name} пытается атаковать!");
+
+        Collider2D[] hits = Physics2D.OverlapCircleAll(enemyController.transform.position, attackRadius);
+        foreach (var hit in hits)
         {
-            // Проверяем, что не сам себя бьёт
-            if (enemyController != null && other.gameObject != enemyController.gameObject)
+            if (hit.CompareTag("Player"))
             {
-                var health = other.GetComponent<HealthBase>();
-                if (health != null)
+                PlayerHealth playerHealth = hit.GetComponent<PlayerHealth>();
+                if (playerHealth != null)
                 {
-                    health.TakeDamage(damage);
-                    Debug.Log($"⚔️ Враг {enemyController.name} нанёс {damage} урона игроку!");
+                    // Передаем позицию врага для отбрасывания
+                    playerHealth.TakeDamageFromEnemy(enemyController.GetComponent<EnemyAttack>().damage,
+                                                    enemyController.transform.position);
+
+                    Debug.Log($"⚔️ {enemyController.name} нанес {damage} урона игроку!");
                 }
             }
+        }
+    }
+
+    void OnDrawGizmosSelected()
+    {
+        if (enemyController != null)
+        {
+            Gizmos.color = Color.red;
+            Gizmos.DrawWireSphere(enemyController.transform.position, attackRadius);
         }
     }
 }
