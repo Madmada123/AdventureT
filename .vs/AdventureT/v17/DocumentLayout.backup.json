@@ -3,7 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\Madi\\AdventureT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|c:\\users\\madi\\adventuret\\assets\\scripts\\prince\\princecommentator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|c:\\users\\madi\\adventuret\\assets\\scripts\\boss\\friendbosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boss\\friendbosscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|c:\\users\\madi\\adventuret\\assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\uimanager\\loadingscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager\\loadingscreenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\prince\\princecommentator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\prince\\princecommentator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\fireballprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\player\\playercontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Madi\\AdventureT\\Assets\\Audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Audio\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BE800141-AC4B-9BF2-FB59-382C4FC87B5D}|Assembly-CSharp.csproj|C:\\Users\\Madi\\AdventureT\\assets\\scripts\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,19 +139,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PrinceCommentator.cs",
-              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Prince\\PrinceCommentator.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Prince\\PrinceCommentator.cs",
-              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Prince\\PrinceCommentator.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Prince\\PrinceCommentator.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Title": "FriendBossController.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Boss\\FriendBossController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss\\FriendBossController.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Boss\\FriendBossController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss\\FriendBossController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowFUAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T12:08:27.839Z",
+              "WhenOpened": "2025-11-10T02:55:17.418Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "EnemyAudio.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAudio.cs",
@@ -155,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MovingPlatform.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Platform\\MovingPlatform.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Platform\\MovingPlatform.cs",
@@ -167,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "PlayerAudioRandom.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAudioRandom.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAudioRandom.cs",
@@ -175,11 +183,12 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAudioRandom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-09T08:28:43.466Z"
+              "WhenOpened": "2025-11-09T08:28:43.466Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "PlayerAudio.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAudio.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAudio.cs",
@@ -191,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Audio\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Audio\\AudioManager.cs",
@@ -203,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "EnemyAttack.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAttack.cs",
@@ -215,19 +224,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHealth.cs",
               "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerHealth.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHealth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T15:20:26.859Z"
+              "WhenOpened": "2025-11-03T15:20:26.859Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "FireballProjectile.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\FireballProjectile.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\FireballProjectile.cs",
@@ -239,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "PlayerAttack.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAttack.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAttack.cs",
@@ -251,7 +261,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 2,
+              "Title": "PlayerAnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T07:04:55.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrinceCommentator.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Prince\\PrinceCommentator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Prince\\PrinceCommentator.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Prince\\PrinceCommentator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Prince\\PrinceCommentator.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:08:27.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoadingScreenManager.cs",
+              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\UIManager\\LoadingScreenManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager\\LoadingScreenManager.cs",
+              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\UIManager\\LoadingScreenManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager\\LoadingScreenManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:27:33.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Damageable.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\Damageable.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\Damageable.cs",
@@ -263,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "HealthBase.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\HealthBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\HealthBase.cs",
@@ -275,19 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PlayerAnimationController.cs",
-              "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
-              "ToolTip": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerAnimationController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimationController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T07:04:55.396Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "PlayerController2D.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Player\\PlayerController2D.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController2D.cs",
@@ -299,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "UIManager.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\UIManager\\UIManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager\\UIManager.cs",
@@ -311,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AudioManager.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Audio\\AudioManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\AudioManager.cs",
@@ -323,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MenuMusic.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Audio\\Menu\\MenuMusic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Audio\\Menu\\MenuMusic.cs",
@@ -335,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "StateHandler.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
               "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\StateHandler.cs",
@@ -347,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "EnemyAnimatorDiagnostic.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyAnimatorDiagnostic.cs",
@@ -359,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "MonsterState.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
               "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\MonsterState.cs",
@@ -371,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyController.cs",
@@ -383,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "EnemyHealth.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Enemy\\EnemyHealth.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy\\EnemyHealth.cs",
@@ -395,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "LayerManager.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
               "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\LayerManager.cs",
@@ -407,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "AnchorManager.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
               "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\AnchorManager.cs",
@@ -419,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AttackBase.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\HP and Damage\\AttackBase.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\HP and Damage\\AttackBase.cs",
@@ -431,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\FantasyMonsters\\Scripts\\Monster.cs",
               "RelativeDocumentMoniker": "Assets\\FantasyMonsters\\Scripts\\Monster.cs",
@@ -443,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "CameraFollow2D.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\CameraFollow2D.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraFollow2D.cs",
@@ -455,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Parallax.cs",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Scripts\\Camera\\Parallax.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\Parallax.cs",
@@ -467,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "alienPink.xml",
               "DocumentMoniker": "C:\\Users\\Madi\\AdventureT\\Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
               "RelativeDocumentMoniker": "Assets\\Sprite\\kenney_platformer-art-deluxe\\Extra animations and enemies\\Spritesheets\\alienPink.xml",
